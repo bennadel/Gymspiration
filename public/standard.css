@@ -1,0 +1,175 @@
+
+body {
+	background-color: #363E41 ;
+	font-family: helvetica, arial, verdana ;
+	margin: 0px 0px 50px 0px ;
+	padding: 0px 0px 0px 0px ;
+	}
+	
+div.siteHeader {
+	background-color: #353A3E ;
+	background-image: url( "./images/header_background.jpg" ) ;
+	background-position: left top ;
+	background-repeat: repeat-x ;
+	height: 166px ;
+	overflow: hidden ;
+	}
+
+div.siteHeader > div.content {
+	height: 166px ;
+	margin: 0px auto 0px auto ;
+	position: relative ;
+	width: 910px ;
+	}
+	
+div.siteHeader a.logo {
+	background-image: url( "./images/sprite.png" ) ;
+	background-position: 0px 0px ;
+	background-repeat: no-repeat ;
+	font-size: 1px ;
+	height: 68px ;
+	left: 0px ;
+	overflow: hidden ;
+	position: absolute ;
+	text-indent: -999px ;
+	top: 49px ; 
+	width: 440px ;
+	}
+
+div.siteHeader a.bennadelButton {
+	background-image: url( "./images/sprite.png" ) ;
+	background-position: -450px 0px ;
+	background-repeat: no-repeat ;
+	font-size: 1px ;
+	height: 27px ;
+	left: 725px ;
+	overflow: hidden ;
+	position: absolute ;
+	text-indent: -999px ;
+	top: 98px ; 
+	width: 97px ;
+	}
+
+div.siteHeader a.tumblrButton {
+	background-image: url( "./images/sprite.png" ) ;
+	background-position: -450px -37px ;
+	background-repeat: no-repeat ;
+	font-size: 1px ;
+	height: 27px ;
+	left: 832px ;
+	overflow: hidden ;
+	position: absolute ;
+	text-indent: -999px ;
+	top: 98px ; 
+	width: 78px ;
+	}
+
+div.siteBody {
+	background-color: #F9F9F9 ;
+	padding: 50px 0px 50px 0px ;
+	}
+
+div.siteBody > div.content {
+	margin: 0px auto 0px auto ; 
+	width: 910px ;
+	}
+
+div.siteBody h1 {
+	background-image: url( "./images/sprite.png" ) ;
+	background-position: 0px -78px ;
+	background-repeat: no-repeat ;
+	font-size: 1px ;
+	height: 101px ;
+	left: 832px ;
+	margin: 0px 0px 50px 0px ;
+	overflow: hidden ;
+	text-indent: -999px ;
+	width: 910px ;
+	}
+	
+div.siteBody div.rssItem {
+	margin: 0px 0px 50px 0px ;
+	text-align: center ;
+	}
+
+div.siteBody div.rssItem img, 
+div.siteBody div.rssItem embed {
+	border: 5px solid #34393D ;
+	display: block ;
+	margin: 0px auto 0px auto ;
+	}
+	
+div.siteBody div.rssItem p {
+	color: #CCCCCC ;
+	font-size: 20px ;
+	margin: 0px 0px 0px 0px ;
+	}
+	
+div.siteBody a.iNeedMore {
+	background-image: url( "./images/sprite.png" ) ;
+	background-position: 0px -189px ;
+	background-repeat: no-repeat ;
+	display: block ;
+	font-size: 1px ;
+	height: 35px ;
+	left: 832px ;
+	margin: 0px auto 0px auto ;
+	overflow: hidden ;
+	text-indent: -999px ;
+	width: 727px ;
+	}
+
+div.siteFooter {
+	background-color: #22272A ;
+	height: 223px ;
+	padding: 50px 0px 50px 0px ;
+	}
+
+div.siteFooter > div.content {
+	height: 223px ;
+	margin: 0px auto 0px auto ;
+	position: relative ;
+	width: 910px ;
+	}
+	
+div.siteFooter a.bennadel {
+	background-image: url( "./images/sprite.png" ) ;
+	background-position: 0px -234px ;
+	background-repeat: no-repeat ;
+	display: block ;
+	font-size: 1px ;
+	height: 223px ;
+	left: 0px ;
+	overflow: hidden ;
+	position: absolute ;
+	text-indent: -999px ;
+	top: 0px ; 
+	width: 440px ;
+	}
+	
+div.siteFooter a.nodejitsu {
+	background-image: url( "./images/sprite.png" ) ;
+	background-position: -450px -234px ;
+	background-repeat: no-repeat ;
+	display: block ;
+	font-size: 1px ;
+	height: 223px ;
+	left: 470px ;
+	overflow: hidden ;
+	position: absolute ;
+	text-indent: -999px ;
+	top: 0px ; 
+	width: 440px ;
+	}
+	
+div.legal {
+	color: #666666 ;
+	font-size: 12px ;
+	padding-top: 30px ;
+	text-align: center ;
+	}	
+
+div.legal a {
+	color: #666666 ;
+	text-decoration: none ;
+	}

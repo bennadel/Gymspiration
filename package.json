@@ -1,0 +1,17 @@
+{
+	"name": "gymspiration",
+	"subdomain": "gymspiration",
+	"description": "Pictures of hot, sexy women with intimidating muscle that will make you feel like you need to go workout ASAP!",
+	"version": "0.5.0",
+	"author": "Ben Nadel <ben@bennadel.com> (http://www.bennadel.com)",
+	"main": "./server.js",
+	"scripts": {
+		"start": "server.js"
+	},
+	"engines": {
+		"node": "0.4.6"
+	},
+	"dependencies": {
+		"node-static": "0.5.4"
+	}
+}
